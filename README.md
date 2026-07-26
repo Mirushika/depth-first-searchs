@@ -117,6 +117,14 @@ F H <BR>
 ['0', '1', '2', '3', '4']
 
 <hr>
+
+<h3>OUTPUT</h3>
+
+<img width="662" height="401" alt="image" src="https://github.com/user-attachments/assets/ca5f6514-b9ac-45cb-a002-d56acd1b1603" />
+
+
+<img width="627" height="305" alt="image" src="https://github.com/user-attachments/assets/ae591447-4b78-4c94-bebb-004e2ea0dd60" />
+
 <h3>Result:</h3>
 <hr>
 <p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
